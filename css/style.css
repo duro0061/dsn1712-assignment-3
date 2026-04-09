@@ -1,0 +1,32 @@
+.wrapper{
+    max-width:940px;
+    justify-content: center;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+header{
+    background-color: #000;
+    color: #fff;
+}
+.emily{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+}
+
+nav li{
+    align-items:flex-end;
+}
+
+nav li a{
+    text-decoration: none;
+}
